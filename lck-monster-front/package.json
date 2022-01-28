@@ -1,0 +1,25 @@
+{
+  "name": "lck-monster-front",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@iconify/svelte": "^2.1.2",
+    "@mankins/svelte-adapter-express": "^0.0.6",
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.44",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.46.3",
+    "svelte-mui": "^0.5.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fontsource/fira-mono": "^4.5.0",
+    "@lukeed/uuid": "^2.0.0",
+    "cookie": "^0.4.1"
+  }
+}
