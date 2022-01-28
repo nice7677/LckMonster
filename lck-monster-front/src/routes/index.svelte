@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="profile-card-6">
-                <img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive"/>
+                <img src="https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/geng-chovy.png" class="img img-responsive"/>
                 <div class="profile-name">Chovy
                     <br></div>
                 <div class="profile-position">Mid</div>
@@ -43,7 +43,7 @@
         </div>
         <div class="col-md-4">
             <div class="profile-card-6">
-                <img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive"/>
+                <img src="https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/geng-peanut.png" class="img img-responsive"/>
                 <div class="profile-name">Peanut
                     <br></div>
                 <div class="profile-position">Jungle</div>
@@ -69,10 +69,10 @@
         </div>
         <div class="col-md-4">
             <div class="profile-card-6">
-                <img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive"/>
-                <div class="profile-name">Ruler
+                <img src="https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/ns-peter.png" class="img img-responsive"/>
+                <div class="profile-name">Peter
                     <br></div>
-                <div class="profile-position">AD</div>
+                <div class="profile-position">SUP</div>
                 <div class="profile-overview">
                     <div class="profile-overview">
                         <div class="row text-center">
@@ -82,11 +82,11 @@
                             </div>
                             <div class="col-xs-4">
                                 <h3>50</h3>
-                                <p>Matches</p>
+                                <p>KDA</p>
                             </div>
                             <div class="col-xs-4">
-                                <h3>35</h3>
-                                <p>Goals</p>
+                                <h3>80%</h3>
+                                <p>WIN RATE</p>
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="profile-card-6 team">
-                <img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive rounded mx-auto d-block"/>
+                <img src="https://raw.githubusercontent.com/nice7677/LckMonster/main/image/team/t1.png" class="img img-responsive rounded mx-auto d-block"/>
                 <div class="profile-name">T1
                     <br></div>
                 <div class="profile-overview">
@@ -124,7 +124,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="profile-card-6 team"><img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive"/>
+            <div class="profile-card-6 team"><img src="https://raw.githubusercontent.com/nice7677/LckMonster/8b81cae2787e3ec6e63fe029e411948aaba80561/image/team/geng.svg" class="img img-responsive"/>
                 <div class="profile-name">GEN.G
                     <br></div>
                 <div class="profile-overview">
@@ -135,8 +135,8 @@
                                 <p>Rank</p>
                             </div>
                             <div class="col-xs-4">
-                                <h3>35</h3>
-                                <p>Goals</p>
+                                <h3>80%</h3>
+                                <p>WIN RATE</p>
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="profile-card-6 team"><img src="https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7" class="img img-responsive"/>
+            <div class="profile-card-6 team"><img src="https://raw.githubusercontent.com/nice7677/LckMonster/main/image/team/ns.png" class="img img-responsive"/>
                 <div class="profile-name">농심
                     <br></div>
                 <div class="profile-position"></div>
@@ -156,8 +156,8 @@
                                 <p>Rank</p>
                             </div>
                             <div class="col-xs-4">
-                                <h3>35</h3>
-                                <p>Goals</p>
+                                <h3>80%</h3>
+                                <p>WIN RATE</p>
                             </div>
                         </div>
                     </div>

@@ -36,7 +36,7 @@ const Routes = (0, import_index_2dc61825.c)(($$result, $$props, $$bindings, slot
   $$result.css.add(css);
   return `<div class="${"container svelte-5ck0me"}"><div class="${"row svelte-5ck0me"}"><div class="${"col svelte-5ck0me"}"><h2 style="${"color: white"}" class="${"svelte-5ck0me"}">\uC774\uBC88\uC8FC TOP3 \uC120\uC218
             </h2></div></div>
-    <div class="${"row svelte-5ck0me"}"><div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive svelte-5ck0me"}">
+    <div class="${"row svelte-5ck0me"}"><div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/geng-chovy.png"}" class="${"img img-responsive svelte-5ck0me"}">
                 <div class="${"profile-name svelte-5ck0me"}">Chovy
                     <br></div>
                 <div class="${"profile-position svelte-5ck0me"}">Mid</div>
@@ -46,7 +46,7 @@ const Routes = (0, import_index_2dc61825.c)(($$result, $$props, $$bindings, slot
                                 <p class="${"svelte-5ck0me"}">KDA</p></div>
                             <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
                                 <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div>
-        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive svelte-5ck0me"}">
+        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/geng-peanut.png"}" class="${"img img-responsive svelte-5ck0me"}">
                 <div class="${"profile-name svelte-5ck0me"}">Peanut
                     <br></div>
                 <div class="${"profile-position svelte-5ck0me"}">Jungle</div>
@@ -56,39 +56,39 @@ const Routes = (0, import_index_2dc61825.c)(($$result, $$props, $$bindings, slot
                                 <p class="${"svelte-5ck0me"}">KDA</p></div>
                             <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
                                 <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div>
-        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive svelte-5ck0me"}">
-                <div class="${"profile-name svelte-5ck0me"}">Ruler
+        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/main/image/player/ns-peter.png"}" class="${"img img-responsive svelte-5ck0me"}">
+                <div class="${"profile-name svelte-5ck0me"}">Peter
                     <br></div>
-                <div class="${"profile-position svelte-5ck0me"}">AD</div>
+                <div class="${"profile-position svelte-5ck0me"}">SUP</div>
                 <div class="${"profile-overview svelte-5ck0me"}"><div class="${"profile-overview svelte-5ck0me"}"><div class="${"row text-center svelte-5ck0me"}"><div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">3</h3>
                                 <p class="${"svelte-5ck0me"}">Rank</p></div>
                             <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">50</h3>
-                                <p class="${"svelte-5ck0me"}">Matches</p></div>
-                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">35</h3>
-                                <p class="${"svelte-5ck0me"}">Goals</p></div></div></div></div></div></div></div>
+                                <p class="${"svelte-5ck0me"}">KDA</p></div>
+                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
+                                <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div></div>
     <div class="${"row svelte-5ck0me"}"><div class="${"col svelte-5ck0me"}"><h2 style="${"color: white"}" class="${"svelte-5ck0me"}">\uC774\uBC88\uC8FC TOP3 \uD300
             </h2></div></div>
-    <div class="${"row svelte-5ck0me"}"><div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive rounded mx-auto d-block svelte-5ck0me"}">
+    <div class="${"row svelte-5ck0me"}"><div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/main/image/team/t1.png"}" class="${"img img-responsive rounded mx-auto d-block svelte-5ck0me"}">
                 <div class="${"profile-name svelte-5ck0me"}">T1
                     <br></div>
                 <div class="${"profile-overview svelte-5ck0me"}"><div class="${"profile-overview svelte-5ck0me"}"><div class="${"row text-center svelte-5ck0me"}"><div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">1</h3>
                                 <p class="${"svelte-5ck0me"}">Rank</p></div>
                             <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
                                 <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div>
-        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive svelte-5ck0me"}">
+        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/8b81cae2787e3ec6e63fe029e411948aaba80561/image/team/geng.svg"}" class="${"img img-responsive svelte-5ck0me"}">
                 <div class="${"profile-name svelte-5ck0me"}">GEN.G
                     <br></div>
                 <div class="${"profile-overview svelte-5ck0me"}"><div class="${"profile-overview svelte-5ck0me"}"><div class="${"row text-center svelte-5ck0me"}"><div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">2</h3>
                                 <p class="${"svelte-5ck0me"}">Rank</p></div>
-                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">35</h3>
-                                <p class="${"svelte-5ck0me"}">Goals</p></div></div></div></div></div></div>
-        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://w.namu.la/s/31c1fb3b5c9830a32d7c1babaca9d4bda2026aa191a7d4e2cd4c1656f1bd5631a737a3085d723514ad1377aae74b0710b5f5b8a094aa367adb9185c519c8bf320636ade61f4b5dae1720563b61de1f5b16244fc33872ea14dfea48b346d726532b7b2a99d43d9f58d30bc824b772afa7"}" class="${"img img-responsive svelte-5ck0me"}">
+                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
+                                <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div>
+        <div class="${"col-md-4 svelte-5ck0me"}"><div class="${"profile-card-6 team svelte-5ck0me"}"><img src="${"https://raw.githubusercontent.com/nice7677/LckMonster/main/image/team/ns.png"}" class="${"img img-responsive svelte-5ck0me"}">
                 <div class="${"profile-name svelte-5ck0me"}">\uB18D\uC2EC
                     <br></div>
                 <div class="${"profile-position svelte-5ck0me"}"></div>
                 <div class="${"profile-overview svelte-5ck0me"}"><div class="${"profile-overview svelte-5ck0me"}"><div class="${"row text-center svelte-5ck0me"}"><div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">3</h3>
                                 <p class="${"svelte-5ck0me"}">Rank</p></div>
-                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">35</h3>
-                                <p class="${"svelte-5ck0me"}">Goals</p></div></div></div></div></div></div></div>
+                            <div class="${"col-xs-4 svelte-5ck0me"}"><h3 class="${"svelte-5ck0me"}">80%</h3>
+                                <p class="${"svelte-5ck0me"}">WIN RATE</p></div></div></div></div></div></div></div>
 </div>`;
 });
